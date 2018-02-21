@@ -1,1 +1,3 @@
 * subZero
+
+A small application to notify me when the temperature is below zero.
