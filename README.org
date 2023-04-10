@@ -1,3 +1,14 @@
 * subZero
 
 A small application to notify me when the temperature is below zero.
+
+Missing in this folder is a ~.api~-file, which is structured as follows:
+
+#+begin_quote
+<cityid>
+<openweathermap-key>
+#+end_quote
+
+The =cityid= can be found [[https://openweathermap.org/find][here]].
+
+The =openweathermap-key can be found [[https://openweathermap.org/appid][here]].
